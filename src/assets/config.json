@@ -54,6 +54,7 @@
     "name": "Città di Roanda",
     "directions": {
       "down": 6,
+      "left": 2,
       "up": 7
     }
   },
@@ -61,6 +62,7 @@
     "image": "/scenarios/city/1.png",
     "name": "Città di Roanda",
     "directions": {
+      "up": 11,
       "right": 5,
       "left": 2
     }
@@ -100,6 +102,21 @@
     "name": "Tempio di Pelor",
     "directions": {
       "down": 8
+    }
+  },
+  {
+    "image": "/scenarios/city/3.png",
+    "name": "Città di Roanda",
+    "directions": {
+      "up": 12,
+      "down": 6
+    }
+  },
+  {
+    "image": "/scenarios/city/4.png",
+    "name": "Città di Roanda",
+    "directions": {
+      "down": 11
     }
   }
 ]

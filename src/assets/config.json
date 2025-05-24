@@ -1,0 +1,105 @@
+[
+  {
+    "image": "/scenarios/tavern/0.png",
+    "name": "Locanda Boccale Mezzo Pieno",
+    "directions": {
+      "up": 3,
+      "right": 1,
+      "down": 2
+    },
+    "characters": [
+      {
+        "image": "/characters/Cael.png",
+        "name": "Mira"
+      },
+      {
+        "image": "/characters/Cael.png",
+        "name": "Mira"
+      }
+    ]
+  },
+  {
+    "image": "/scenarios/tavern/1.png",
+    "name": "Locanda Boccale Mezzo Pieno",
+    "directions": {
+      "down": 0,
+      "up": 4
+    }
+  },
+  {
+    "image": "/scenarios/city/2.png",
+    "name": "Città di Roanda",
+    "directions": {
+      "up": 0,
+      "right": 5,
+      "down": 6
+    }
+  },
+  {
+    "image": "/scenarios/tavern/3.png",
+    "name": "Locanda Boccale Mezzo Pieno",
+    "directions": {
+      "down": 0
+    }
+  },
+  {
+    "image": "/scenarios/tavern/4.png",
+    "name": "Locanda Boccale Mezzo Pieno",
+    "directions": {
+      "down": 1
+    }
+  },
+  {
+    "image": "/scenarios/city/0.png",
+    "name": "Città di Roanda",
+    "directions": {
+      "down": 6,
+      "up": 7
+    }
+  },
+  {
+    "image": "/scenarios/city/1.png",
+    "name": "Città di Roanda",
+    "directions": {
+      "right": 5,
+      "left": 2
+    }
+  },
+  {
+    "image": "/scenarios/temple/0.png",
+    "name": "Tempio di Pelor",
+    "directions": {
+      "down": 5,
+      "up": 8
+    },
+    "characters": [
+      {
+        "image": "/characters/CaelPg.png",
+        "name": "Mira"
+      }
+    ]
+  },
+  {
+    "image": "/scenarios/temple/1.png",
+    "name": "Tempio di Pelor",
+    "directions": {
+      "down": 7,
+      "left": 9,
+      "right": 10
+    }
+  },
+  {
+    "image": "/scenarios/temple/2.png",
+    "name": "Tempio di Pelor",
+    "directions": {
+      "down": 8
+    }
+  },
+  {
+    "image": "/scenarios/temple/3.png",
+    "name": "Tempio di Pelor",
+    "directions": {
+      "down": 8
+    }
+  }
+]

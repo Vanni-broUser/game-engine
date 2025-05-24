@@ -32,7 +32,8 @@
     "directions": {
       "up": 0,
       "right": 5,
-      "down": 6
+      "down": 6,
+      "left": 13
     }
   },
   {
@@ -117,6 +118,29 @@
     "name": "Città di Roanda",
     "directions": {
       "down": 11
+    }
+  },
+  {
+    "image": "/scenarios/market/0.png",
+    "name": "Mercato di Roanda",
+    "directions": {
+      "down": 2,
+      "left": 14,
+      "right": 15
+    }
+  },
+  {
+    "image": "/scenarios/market/1.png",
+    "name": "Mercato di Roanda",
+    "directions": {
+      "down": 13
+    }
+  },
+  {
+    "image": "/scenarios/market/2.png",
+    "name": "Mercato di Roanda",
+    "directions": {
+      "down": 13
     }
   }
 ]

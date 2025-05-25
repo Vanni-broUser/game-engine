@@ -8,5 +8,5 @@
 </template>
 
 <script setup>
-import AppBar from './AppBar.vue';
+import AppBar from '@/layouts/AppBar.vue';
 </script>

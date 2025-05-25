@@ -9,6 +9,16 @@ const routes = [
         path: '',
         name: 'Home',
         component: () => import('@/views/Home.vue')
+      },
+      {
+        path: 'interaction',
+        name: 'Interazione',
+        component: () => import('@/views/Interaction.vue')
+      },
+      {
+        path: 'user',
+        name: 'Utente',
+        component: () => import('@/views/User.vue')
       }
     ]
   }

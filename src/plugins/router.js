@@ -11,7 +11,7 @@ const routes = [
         component: () => import('@/views/Home.vue')
       },
       {
-        path: 'interaction',
+        path: 'interaction/:type',
         name: 'Interazione',
         component: () => import('@/views/Interaction.vue')
       },

@@ -58,8 +58,22 @@
         :disabled="currentCharacter == config[currentScenario].characters.length -1"
         @click="currentCharacter += 1"
       />
-      <v-btn icon="mdi-fencing" size="smaller" class="ml-2 mr-2 mt-2" style="float: right" />
-      <v-btn icon="mdi-chat" size="smaller" class="mt-2" style="float: right" />
+      <router-link to="/interaction/fight">
+        <v-btn
+          icon="mdi-fencing"
+          size="smaller"
+          class="ml-2 mr-2 mt-2"
+          style="float: right"
+        />
+      </router-link>
+      <router-link to="/interaction/chat">
+        <v-btn
+          icon="mdi-chat"
+          size="smaller"
+          class="mt-2"
+          style="float: right"
+        />
+      </router-link>
     </v-col>
   </v-row>
   <v-img src="/maps/0.png" class="mt-2" />
